@@ -1,0 +1,8 @@
+{
+  "name": "MotionAI — AI Image-to-Video Studio",
+  "description": "Transform static images into cinematic video clips with customizable camera motion, Gemini AI prompt enhancement, scene analysis, and timeline preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
